@@ -1,0 +1,7 @@
+crewai
+qdrant-client
+openai
+streamlit
+pyngrok
+tqdm
+pandas
